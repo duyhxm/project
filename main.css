@@ -1,0 +1,20 @@
+.button {
+  width: 10%;
+  height: 10%;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.button:hover {
+  border: 1px solid powderblue;
+}
+
+.box {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  color: white;
+  margin: auto;
+  padding: 70px 0;
+}
